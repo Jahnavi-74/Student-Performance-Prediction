@@ -63,4 +63,4 @@ Student-Performance-Prediction/
 
 ## Author
 
-Jahnavi Kanithi
+ Kanithi Jahnavi
